@@ -1,0 +1,28 @@
+{
+  "name": "error",
+  "version": "0.0.0",
+  "description": "error middleware for express",
+  "author": "dan entous",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "eslint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-nl/error.git"
+  },
+  "keywords": [
+    "error",
+    "express",
+    "middleware"
+  ],
+  "bugs": {
+    "url": "https://github.com/dan-nl/error/issues"
+  },
+  "homepage": "https://github.com/dan-nl/error#readme",
+  "devDependencies": {
+    "eslint": "3.9.1",
+    "eslint-config-dan-nl": "git://github.com/dan-nl/eslint-config-dan-nl.git"
+  }
+}
